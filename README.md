@@ -1,6 +1,12 @@
 # Facy bird
 A face detect controlled flappy bird made with Processing.
 
+##Reqiurements
+
+- Processing 2.2.1
+- Processing OpenCV Library - Face detection
+- Mimin Library - Sound
+
 ## How to play
 
 ###Calibrate web cam
@@ -15,7 +21,6 @@ After you calibrate the settings, the game will start.
 ![](https://raw.githubusercontent.com/youweit/FacyBird/master/Screenshots/Screenshot-2.png)
 
 - move your head to control the bird, avoid the tubes.
-
 
 ###License
 
